@@ -28,7 +28,6 @@
 		1571A857204EA38D004B46FA /* Ad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1571A856204EA38D004B46FA /* Ad.swift */; };
 		1571A85A204EC79B004B46FA /* SuperHeroDatasource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1571A859204EC79B004B46FA /* SuperHeroDatasource.swift */; };
 		363A9B3D93E09F26C21ECC92 /* Pods_ModernListsUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 786EFED354F149A3E5612ACC /* Pods_ModernListsUITests.framework */; };
-		45C40DD2990A76A62DD45284 /* Pods_ModernLists.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 169CC255A9CD3AECC822B98A /* Pods_ModernLists.framework */; };
 		5228A1A762407B5EACC36659 /* Pods_LearnAndMasterIGListKitTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8B111D16CABC662B9941E2B /* Pods_LearnAndMasterIGListKitTests.framework */; };
 		9E3AA09A54B21D8361A156C0 /* Pods_LearnAndMasterIGListKitUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2225FEDF370105357F3819E8 /* Pods_LearnAndMasterIGListKitUITests.framework */; };
 		DC52B7D497DDF824EC18E218 /* Pods_ModernListsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26EB47843884C657CE0DF46D /* Pods_ModernListsTests.framework */; };
@@ -104,7 +103,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				45C40DD2990A76A62DD45284 /* Pods_ModernLists.framework in Frameworks */,
 				F7EBC481944A62CFBA8560EE /* Pods_LearnAndMasterIGListKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
